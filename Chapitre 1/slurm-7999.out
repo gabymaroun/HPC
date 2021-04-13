@@ -1,0 +1,17 @@
+TP1
+Read 4779 Nodes. Read 9558 elements (total)
+Assemble matrices with 4779 compute points using gauss3pt2d integration formula on 9379 elements.
+Writing file tp1_000010.h5
+Writing file tp1_000020.h5
+Writing file tp1_000030.h5
+Writing file tp1_000040.h5
+Writing file tp1_000050.h5
+Writing file tp1_000060.h5
+Writing file tp1_000070.h5
+Writing file tp1_000080.h5
+Writing file tp1_000090.h5
+Writing file tp1_000100.h5
+
+real	0m10,742s
+user	0m9,820s
+sys	0m0,068s

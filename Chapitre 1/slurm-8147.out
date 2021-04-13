@@ -1,0 +1,9 @@
+S=C=A=N: Scalasca 2.5 runtime summarization
+S=C=A=N: ./scorep_tp1_O_sum experiment archive
+S=C=A=N: Tue Oct 13 10:35:30 2020: Collect start
+ ./tp1.exe
+TP1
+Read 4779 Nodes. Read 9558 elements (total)
+Assemble matrices with 4779 compute points using gauss3pt2d integration formula on 9379 elements.
+S=C=A=N: Tue Oct 13 10:35:41 2020: Collect done (status=0) 11s
+S=C=A=N: ./scorep_tp1_O_sum complete.
